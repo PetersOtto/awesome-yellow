@@ -35,6 +35,7 @@ From one-pagers to extensive product portfolios.
 
 These websites primarily feature a regularly updated weblog.
 
+* **[entdecker*design](https://entdecker-design.de/)** - A german-language website of a design agency.
 * **[Pftnhr.xyz](https://pftnhr.xyz)** - A german-language microblog by Robert Pfotenhauer.
 * **[Robbenradio.de](https://robbenradio.de)** - German-language website by Steffen Schultz.
 
